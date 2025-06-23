@@ -18,7 +18,7 @@ const app = express();
 const PORT = 3001;
 
 app.use(cors(
-  {origin: 'https://venuescanner.achiapp.ch',
+  {origin: 'https://venuescanner.achiapps.ch',
     credentials: true
   }
 ));
