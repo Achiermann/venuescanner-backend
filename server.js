@@ -15,10 +15,16 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
+
+const allowedOrigins = [
+  'https://venuescanner.achiapps.ch',
+  'http://localhost:3001',
+  'http://localhost:5500', 
+];
 
 app.use(cors(
-  {origin: 'https://venuescanner.achiapps.ch',
+  {origin: allowedOrigins,
     credentials: true
   }
 ));
