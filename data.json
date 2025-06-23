@@ -1,51 +1,6 @@
 [
   {
-    "info": "last updated 16.06.25 17.02"
-  },
-  {
-    "id": 0,
-    "event": "MONTAGS 1072 NIK BÄRTSCH & NICOLAS STOCKER",
-    "date": "2025-06-15T22:00:00.000Z",
-    "venue": "Exil",
-    "img_src": "",
-    "eventlink": "https://exil.club/events/baertsch-stocker-16-06-25",
-    "description": ""
-  },
-  {
-    "id": 0,
-    "event": "Sawyer Hill (abgesagt)",
-    "date": "2025-06-17T22:00:00.000Z",
-    "venue": "Exil",
-    "img_src": "",
-    "eventlink": "https://exil.club/events/sawyer-hill",
-    "description": ""
-  },
-  {
-    "id": 0,
-    "event": "Sonic Sisters - Bail(e) me out",
-    "date": "2025-06-19T22:00:00.000Z",
-    "venue": "Exil",
-    "img_src": "",
-    "eventlink": "https://exil.club/events/sonic-sisters",
-    "description": ""
-  },
-  {
-    "id": 0,
-    "event": "Creeper",
-    "date": "2025-06-20T22:00:00.000Z",
-    "venue": "Exil",
-    "img_src": "",
-    "eventlink": "https://exil.club/events/creeper",
-    "description": ""
-  },
-  {
-    "id": 0,
-    "event": "Herrensauna - Pride Afterparty",
-    "date": "2025-06-20T22:00:00.000Z",
-    "venue": "Exil",
-    "img_src": "",
-    "eventlink": "https://exil.club/events/herrensauna-june25",
-    "description": ""
+    "info": "last updated 23.06.25 16.42"
   },
   {
     "id": 0,
@@ -85,6 +40,15 @@
   },
   {
     "id": 0,
+    "event": "Public Viewing: Schweiz – Norwegen",
+    "date": "2025-07-01T22:00:00.000Z",
+    "venue": "Exil",
+    "img_src": "",
+    "eventlink": "https://exil.club/events/public-viewing-schweiz-norwegen",
+    "description": ""
+  },
+  {
+    "id": 0,
     "event": "Square",
     "date": "2025-07-03T22:00:00.000Z",
     "venue": "Exil",
@@ -103,6 +67,15 @@
   },
   {
     "id": 0,
+    "event": "Public Viewing: Schweiz – Island",
+    "date": "2025-07-05T22:00:00.000Z",
+    "venue": "Exil",
+    "img_src": "",
+    "eventlink": "https://exil.club/events/public-viewing-schweiz-island",
+    "description": ""
+  },
+  {
+    "id": 0,
     "event": "MONTAGS 1075 NIK BÄRTSCH’S RONIN",
     "date": "2025-07-06T22:00:00.000Z",
     "venue": "Exil",
@@ -112,7 +85,16 @@
   },
   {
     "id": 0,
-    "event": "Choke mit DJ Abuglitsch & DJ Achim Feuervogel",
+    "event": "Public Viewing: Schweiz – Finnland",
+    "date": "2025-07-09T22:00:00.000Z",
+    "venue": "Exil",
+    "img_src": "",
+    "eventlink": "https://exil.club/events/public-viewing-schweiz-finnland",
+    "description": ""
+  },
+  {
+    "id": 0,
+    "event": "Choke mit DJ AbuGlitsch & DJ Achim Feuervogel",
     "date": "2025-07-10T22:00:00.000Z",
     "venue": "Exil",
     "img_src": "",
@@ -139,7 +121,7 @@
   },
   {
     "id": 0,
-    "event": "Gradient Collective mit CRRDR",
+    "event": "Gradient Summer Party w/ CRRDR & Dreamloader",
     "date": "2025-07-17T22:00:00.000Z",
     "venue": "Exil",
     "img_src": "",
@@ -171,6 +153,15 @@
     "venue": "Exil",
     "img_src": "",
     "eventlink": "https://exil.club/events/rocknacht-juli25",
+    "description": ""
+  },
+  {
+    "id": 0,
+    "event": "Public Viewing: Final",
+    "date": "2025-07-26T22:00:00.000Z",
+    "venue": "Exil",
+    "img_src": "",
+    "eventlink": "https://exil.club/events/public-viewing-final",
     "description": ""
   },
   {
@@ -306,6 +297,15 @@
     "venue": "Exil",
     "img_src": "",
     "eventlink": "https://exil.club/events/die-hochste-eisenbahn",
+    "description": ""
+  },
+  {
+    "id": 0,
+    "event": "STVW",
+    "date": "2025-10-09T22:00:00.000Z",
+    "venue": "Exil",
+    "img_src": "",
+    "eventlink": "https://exil.club/events/stvw",
     "description": ""
   },
   {
@@ -504,6 +504,15 @@
     "venue": "Exil",
     "img_src": "",
     "eventlink": "https://exil.club/events/choke-mit-paracek",
+    "description": ""
+  },
+  {
+    "id": 0,
+    "event": "Berwyn",
+    "date": "2025-11-14T23:00:00.000Z",
+    "venue": "Exil",
+    "img_src": "",
+    "eventlink": "https://exil.club/events/berwyn",
     "description": ""
   },
   {
@@ -715,33 +724,6 @@
   },
   {
     "id": 0,
-    "event": "\"helsinki\" ",
-    "date": "2025-06-20T22:00:00.000Z",
-    "venue": "Helsinki",
-    "img_src": "https://www.helsinkiklub.ch/media/medium_2324_small_oppliger_glanzmann_Buch_cover_Helsinki.jpeg",
-    "eventlink": "eventlink",
-    "description": "«Helsinki» - die musikalische Lesung\nDominic Oppliger und Vincent Glanzmann performen live die Mundart-Fantasyerzählung «Helsinki» (im Mai 2025 als Buch beim Verlag Der gesunde Menschenversand) für ein Publikum von 7-99 Jahren und liefern somit Story und Soundtrack eines farbenprächtigen Kopfkinos, das sich vor dem geistigen Auge der Besucher:innen abspielt.\n \n«Helsinki» erzählt ein gleichzeitig traumwandlerisches und rasantes Abenteuer, das durch eine endzeitliche Umgebung ohne Erwachsene führt, in der sich niemand mehr an die Namen der Farben erinnert. Hier lebt Rok, zusammen mit Tok und Sol und dem Kater Moh. Doch eines Morgens ist ihr pelziger Freund Moh spurlos verschwunden. Die drei Freund:innen machen sich entschlossen auf die Suche, begegnen Fiisvögeln und den mysteriösen Züünlern und erfahren dabei mehr über sich und ihre kleine Welt, als sie sich je hätten träumen lassen.\n \nDie musikalische Lesung eignet sich für hörende Menschen ab 7 Jahren, beglückt aber, durch ihren analog-immersiven Charakter sowie den atmosphärischen Rahmen, Familien genauso wie erwachsene Menschen ohne Kinderbegleitung.\n \n*******\nDie Billett-Geschichte:\n5.- oder 10.- für Kinder\nund auch\n15 oder 25 oder 30 für die Grossen.\naufgemuntert zum solidarisch sein: für alle die's gern würden, aber vllt. nicht können. *******"
-  },
-  {
-    "id": 0,
-    "event": "Queer Balkan Disco w/ The Nozez ",
-    "date": "2025-06-20T22:00:00.000Z",
-    "venue": "Helsinki",
-    "img_src": "https://www.helsinkiklub.ch/media/medium_2319_small_IMG_5089.jpg",
-    "eventlink": "eventlink",
-    "description": "Weiter mit\nAusgabe 13\nder\nQUEER BALKAN DISCO \nsorgfältig kuratiert von \n                               tobibi \njener wundervollen helsinki freundin.\n \nDas Programmi ziemlich viel, \noui: \n \nzum zweiten Mal dabei:\nPutite de mamá\n(Buenos Aires)\nTanz Poesie \nTrench Techno Punk\nund \nlots and lots of Latin American asses\ninsta\n \nmehr:\nThe Dragona Awakening\n(Mexico-City/Toulouse)\ntanzt gegen und mit den Welten und befreit ihre Seele von der Last, die sie einst trug, Kleid um Klein.\ninsta\n \nund:\nValerie Reding\naka\nVulVenim\neine verführerische, giftige und sich ständig verwandelnde Gestalt, aus den Tiefen der Nacht geboren - verwebt in ihren viszeralen Performances Bewegung, Drag, Text und Transformation.\n.com/\n \nHerz vom Abend \nZureich, Winterthur, Kavaderci\nThe Nozez\n, Kollektiv und Familie - in immer wieder wechselnden Formationen pflegen sie die feine Kunst der Balkan-Roma-Straßen-Folkmusik & verwandeln sie in ihre eigene Version zeitgenössischer Tanzmusik. Überall, wo sie hinkommen, verbreiten sie LÖV. \ntotentanz  et insta\n \nDie Disko\nmacht\nDJ Menina\ndas DJ-Ich der Künstlerin Victoria Papagni aus Buenos Aires. \nthe sound goes like\npopopopostklubdeconstructednoizelatin\nmusicHCBuenosAiresBailefunkReaggeton\n_______________________** BILLETTS an der Abendkasse\ndrei Preise, Du Wählst.                     24.- 19.- 29.-aufgemuntert zum solidarisch sein: für alle die's gern würden, aber vllt. nicht können. *******"
-  },
-  {
-    "id": 0,
-    "event": "\"helsinki\" ",
-    "date": "2025-06-21T22:00:00.000Z",
-    "venue": "Helsinki",
-    "img_src": "https://www.helsinkiklub.ch/media/medium_2335_small_oppliger_glanzmann_Buch_cover_Helsinki.jpeg",
-    "eventlink": "eventlink",
-    "description": "«Helsinki» - die musikalische Lesung\nDominic Oppliger und Vincent Glanzmann performen live die Mundart-Fantasyerzählung «Helsinki» (im Mai 2025 als Buch beim Verlag Der gesunde Menschenversand) für ein Publikum von 7-99 Jahren und liefern somit Story und Soundtrack eines farbenprächtigen Kopfkinos, das sich vor dem geistigen Auge der Besucher:innen abspielt.\n \n«Helsinki» erzählt ein gleichzeitig traumwandlerisches und rasantes Abenteuer, das durch eine endzeitliche Umgebung ohne Erwachsene führt, in der sich niemand mehr an die Namen der Farben erinnert. Hier lebt Rok, zusammen mit Tok und Sol und dem Kater Moh. Doch eines Morgens ist ihr pelziger Freund Moh spurlos verschwunden. Die drei Freund:innen machen sich entschlossen auf die Suche, begegnen Fiisvögeln und den mysteriösen Züünlern und erfahren dabei mehr über sich und ihre kleine Welt, als sie sich je hätten träumen lassen.\n \nDie musikalische Lesung eignet sich für hörende Menschen ab 7 Jahren, beglückt aber, durch ihren analog-immersiven Charakter sowie den atmosphärischen Rahmen, Familien genauso wie erwachsene Menschen ohne Kinderbegleitung.\n \n*******\nDie Billett-Geschichte:\n5.- oder 10.- für Kinder\nund auch\n15 oder 25 oder 30 für die Grossen.\naufgemuntert zum solidarisch sein: für alle die's gern würden, aber vllt. nicht können. *******"
-  },
-  {
-    "id": 0,
     "event": "Der schöne Abig ",
     "date": "2025-06-23T22:00:00.000Z",
     "venue": "Helsinki",
@@ -796,7 +778,7 @@
   },
   {
     "id": 0,
-    "event": "PHOTON PHONON (Ivana Ray Singh &amp; Annika Francke)",
+    "event": "PHOTON PHONON &amp; DJs SENDWICH &amp; RAMSO",
     "date": "2025-07-06T22:00:00.000Z",
     "venue": "Boschbar",
     "img_src": "",
@@ -823,7 +805,7 @@
   },
   {
     "id": 0,
-    "event": "DEGRUTIENI &amp; DJ Buster Bandit",
+    "event": "DEGRUTIENI &amp; DJ Buster Bandit &amp; DJ Ciao Amore",
     "date": "2025-07-27T22:00:00.000Z",
     "venue": "Boschbar",
     "img_src": "",
@@ -832,39 +814,12 @@
   },
   {
     "id": 0,
-    "event": "MARYTRONICS, DJ Wackelkontakt",
+    "event": "MARYTRONICS &amp; DJ Wackelkontakt",
     "date": "2025-08-03T22:00:00.000Z",
     "venue": "Boschbar",
     "img_src": "",
     "eventlink": "https://boschbar.ch/",
     "description": ""
-  },
-  {
-    "id": 0,
-    "event": "PLANKTON - PREMIÈRE",
-    "date": "2025-06-18T22:00:00.000Z",
-    "venue": "ZWZ",
-    "img_src": "https://zw-img.imgix.net/uploads/ZW_Website_30ae7b9fe6.jpg?fm=pjpg&fit=max&w=600",
-    "eventlink": "https://442hz.com/de/ensembles/Collegium-Novum-Zurich/shop/event/140476/",
-    "description": "Plankton ist die Geschichte von vier Menschen, die sich aus unterschiedlichen Gründen entscheiden haben, sich aus der Gesellschaft zurückzuziehen, um fortan in Einsamkeit zu leben. In einzelnen, intimen Porträts entfalten sich langsam ihr unabhängiges Leben sowie ihre Verbindungen zu ihrer Umgebung. Die vier unterschiedlichen Geschichten entwickeln sich Seite an Seite, mitunter kreuzen sich ihre Wege, verflechten sich die Handlungs- und Klangwelten, mitunter existieren sie völlig isoliert voneinander in absoluter Einsamkeit. Die abgeschiedenen Welten werden zu unheimlichen Umgebungen, in denen die eigenen Erinnerungen und Fantasien miteinander verschmelzen. Léo Collin und Kapitolina Tsvetkova kreieren mit Plankton ein lust- und humorvolles musiktheatrales Gedankenexperiment zu grossen Themen wie dem digitalen Leben, der Liebe, dem Platz, den wir in modernen sozialen Systemen einnehmen, vor allem aber zu unserer fragilen Beziehung zu uns selbst und der uns umgebenden Natur.\n\nEine Koproduktion Kollektiv International Totem mit CNZ\n\nEntry 15/20/30\n\nPlankton Musiktheater für Performer·innen, Ensemble und bewegliches Publikum (2025, UA)\nKevin Toksöz Fairbairn Performance\nGilles Grimaître Performance\nKay Zhang Performance\nNuriia Khasenova Performance\nLéo Collin Konzept, Komposition\nKapitolina Tsvetkova Konzept, Regie, Bühnenbild\nLeandro Gianini Technische Leitung, Konzept\nMariana Vieira Grünig Kostüm\nInès Assoual Bühnenbildassistenz\nGregory Charette Musikalische Leitung\n\nCollegium Novum Zürich\nElia Pianaro, Flöte\nMatthias Arter, Oboe\nShuyue Miao Zhao, Klarinette\nSascha Armbruster, Saxofon\nTomás Gallart, Horn\nJens Bracher, Trompete\nBrian Archinal, Schlagzeug\nManon Pierrehumbert, Harfe\nRahel Cunz, Violine\nKinga Wojdalska, Viola\nMartina Schucan, Violoncello\nTizia Zimmermann, Akkordeon"
-  },
-  {
-    "id": 0,
-    "event": "PLANKTON",
-    "date": "2025-06-19T22:00:00.000Z",
-    "venue": "ZWZ",
-    "img_src": "https://zw-img.imgix.net/uploads/ZW_Website_30ae7b9fe6.jpg?fm=pjpg&fit=max&w=600",
-    "eventlink": "https://442hz.com/de/ensembles/Collegium-Novum-Zurich/shop/event/140477/",
-    "description": "Plankton ist die Geschichte von vier Menschen, die sich aus unterschiedlichen Gründen entscheiden haben, sich aus der Gesellschaft zurückzuziehen, um fortan in Einsamkeit zu leben. In einzelnen, intimen Porträts entfalten sich langsam ihr unabhängiges Leben sowie ihre Verbindungen zu ihrer Umgebung. Die vier unterschiedlichen Geschichten entwickeln sich Seite an Seite, mitunter kreuzen sich ihre Wege, verflechten sich die Handlungs- und Klangwelten, mitunter existieren sie völlig isoliert voneinander in absoluter Einsamkeit. Die abgeschiedenen Welten werden zu unheimlichen Umgebungen, in denen die eigenen Erinnerungen und Fantasien miteinander verschmelzen. Léo Collin und Kapitolina Tsvetkova kreieren mit Plankton ein lust- und humorvolles musiktheatrales Gedankenexperiment zu grossen Themen wie dem digitalen Leben, der Liebe, dem Platz, den wir in modernen sozialen Systemen einnehmen, vor allem aber zu unserer fragilen Beziehung zu uns selbst und der uns umgebenden Natur.\n\nEine Koproduktion Kollektiv International Totem mit CNZ\n\nEntry 15/20/30\n\nPlankton Musiktheater für Performer·innen, Ensemble und bewegliches Publikum (2025, UA)\nKevin Toksöz Fairbairn Performance\nGilles Grimaître Performance\nKay Zhang Performance\nNuriia Khasenova Performance\nLéo Collin Konzept, Komposition\nKapitolina Tsvetkova Konzept, Regie, Bühnenbild\nLeandro Gianini Technische Leitung, Konzept\nMariana Vieira Grünig Kostüm\nInès Assoual Bühnenbildassistenz\nGregory Charette Musikalische Leitung\n\nCollegium Novum Zürich\nElia Pianaro, Flöte\nMatthias Arter, Oboe\nShuyue Miao Zhao, Klarinette\nSascha Armbruster, Saxofon\nTomás Gallart, Horn\nJens Bracher, Trompete\nBrian Archinal, Schlagzeug\nManon Pierrehumbert, Harfe\nRahel Cunz, Violine\nKinga Wojdalska, Viola\nMartina Schucan, Violoncello\nTizia Zimmermann, Akkordeon"
-  },
-  {
-    "id": 0,
-    "event": "PLANKTON",
-    "date": "2025-06-20T22:00:00.000Z",
-    "venue": "ZWZ",
-    "img_src": "https://zw-img.imgix.net/uploads/ZW_Website_30ae7b9fe6.jpg?fm=pjpg&fit=max&w=600",
-    "eventlink": "https://442hz.com/de/ensembles/Collegium-Novum-Zurich/shop/event/140475/",
-    "description": "Plankton ist die Geschichte von vier Menschen, die sich aus unterschiedlichen Gründen entscheiden haben, sich aus der Gesellschaft zurückzuziehen, um fortan in Einsamkeit zu leben. In einzelnen, intimen Porträts entfalten sich langsam ihr unabhängiges Leben sowie ihre Verbindungen zu ihrer Umgebung. Die vier unterschiedlichen Geschichten entwickeln sich Seite an Seite, mitunter kreuzen sich ihre Wege, verflechten sich die Handlungs- und Klangwelten, mitunter existieren sie völlig isoliert voneinander in absoluter Einsamkeit. Die abgeschiedenen Welten werden zu unheimlichen Umgebungen, in denen die eigenen Erinnerungen und Fantasien miteinander verschmelzen. Léo Collin und Kapitolina Tsvetkova kreieren mit Plankton ein lust- und humorvolles musiktheatrales Gedankenexperiment zu grossen Themen wie dem digitalen Leben, der Liebe, dem Platz, den wir in modernen sozialen Systemen einnehmen, vor allem aber zu unserer fragilen Beziehung zu uns selbst und der uns umgebenden Natur.\n\nEine Koproduktion Kollektiv International Totem mit CNZ\n\nEntry 15/20/30\n\nPlankton Musiktheater für Performer·innen, Ensemble und bewegliches Publikum (2025, UA)\nKevin Toksöz Fairbairn Performance\nGilles Grimaître Performance\nKay Zhang Performance\nNuriia Khasenova Performance\nLéo Collin Konzept, Komposition\nKapitolina Tsvetkova Konzept, Regie, Bühnenbild\nLeandro Gianini Technische Leitung, Konzept\nMariana Vieira Grünig Kostüm\nInès Assoual Bühnenbildassistenz\nGregory Charette Musikalische Leitung\n\nCollegium Novum Zürich\nElia Pianaro, Flöte\nMatthias Arter, Oboe\nShuyue Miao Zhao, Klarinette\nSascha Armbruster, Saxofon\nTomás Gallart, Horn\nJens Bracher, Trompete\nBrian Archinal, Schlagzeug\nManon Pierrehumbert, Harfe\nRahel Cunz, Violine\nKinga Wojdalska, Viola\nMartina Schucan, Violoncello\nTizia Zimmermann, Akkordeon"
   },
   {
     "id": 0,
@@ -877,21 +832,30 @@
   },
   {
     "id": 0,
-    "event": "MÜDE / ÉTINCELLES SOUS LA BRUME/ PEACE OF MIND",
+    "event": "TANZ TRIFFT PSYCHE – UND EINE KUGEL GLACE DAZU.",
     "date": "2025-06-25T22:00:00.000Z",
     "venue": "ZWZ",
-    "img_src": "https://zw-img.imgix.net/uploads/IMG_4078_e3a26f5131.JPG?fm=pjpg&fit=max&w=600",
-    "eventlink": "https://zentralwaescherei.space/event/e7juynrzgrwm58ukwar4uizo",
-    "description": "In einer Welt, die uns ständig nach außen zieht, lädt dieser Abend dazu ein, nach innen zu hören. Den Körper sprechen lassen. Roh, ehrlich, verletzlich.\n\nAm 26. und 27. Juni 2025 präsentieren wir in der Zentralwäscherei Zürich einen Tanzabend, der sich mit viel Sensibilität dem Thema mentale Gesundheit widmet. Drei Stücke – müde, étincelles sous la brume und peace of mind – beleuchten unterschiedliche Facetten psychischer Zustände und schaffen Räume für Achtsamkeit, Mitgefühl und Reflexion.\n\nmüde von Vanessa Morandell vermittelt durch Klang, Bewegung und Text das Erleben von Depression – als eine Suche nach Halt im Strudel der inneren Leere.\n\nétincelles sous la brume von Chloé Wanner und Lea Korner thematisiert das Gefühl von Dissoziation. Tanz, Live-Sound und Szenografie erschaffen eine fragile Atmosphäre zwischen Nebel und Aufbruch.\n\npeace of mind von Ladina Whitehead erforscht Vertrauen und innere Ruhe. Improvisation und persönliche Reflexion werden hier zu einem poetischen Werkzeug der Selbstbegegnung.\n\nWas alle drei Stücke verbindet, ist der Wunsch, neue Ausdrucksformen zu erkunden. Zeitgenössischer Tanz verschmilzt mit Elementen aus Streetstyles wie Hip-Hop und Krump und trifft auf experimentelle Klanglandschaften und starke visuelle Ästhetik. Der Abend lebt von der interdisziplinären Zusammenarbeit mit Musiker:innen, Sounddesigner:innen und Fotograf:innen – ein Zusammenspiel, das Emotionen in Bewegung übersetzt.\n\nIm Zentrum steht der Drang, das Innere sichtbar zu machen – dort, wo Worte fehlen. Der Abend lädt das Publikum ein, sich auf ein ganzheitliches, sinnliches Erlebnis einzulassen, in dem Tanz nicht nur bewegt, sondern berühr\n\nPreis: 10/15/20"
+    "img_src": "https://zw-img.imgix.net/uploads/image0ccc_98ace98306.jpeg?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://eventfrog.ch/de/p/theater-buehne/tanz/tanz-trifft-psyche-und-eine-kugel-glace-dazu-7333424858791947931.html",
+    "description": "Mental Health and Ice Cream\n\nIn einer Welt, die uns ständig nach außen zieht, lädt dieser Abend dazu ein, nach innen zu lauschen. Den Körper sprechen zu lassen – roh, ehrlich, verletzlich.\n\nEin Tanzabend über das Innenleben. Drei Kurzstücke öffnen Räume für Gespräche über mentale Gesundheit. Zeitgenössischer Tanz trifft auf Streetstyles und Physical Theater – eine Begegnung, die neue ästhetische Perspektiven schafft.\n\nDavor, mittendrin und danach: Glace von Gelavena – weil sich das Innenleben mit ein paar Glückshormonen leichter anfühlt und sich besser darüber reden lässt.\n\nmüde – Vanessa Morandell\n\nDepression in Klang, Bewegung und Text. Eine Annäherung an das Innenleben eines Menschen, der nicht mehr aufstehen kann.\n\nétincelles sous la brume – cienuime – Chloé Wanner, Lea Korner & Claudius Leopold\n\nDissoziation, zwei tanzende Körper, die im Nebel versinken. Tanz, Live-Sound und Szenografie schaffen eine dichte, emotionale Atmosphäre zwischen Fragmentierung und Sehnsucht.\n\npeace of mind – Ladina Whitehead\n\nImprovisation, Vertrauen und innerer Frieden. Zwei Tänzer*innen begegnen sich – persönlich, nahbar, mit der leisen Hoffnung auf ein Aufatmen.\n\nDon’t Panic – Kurzfilm-Installation\n\nEin filmischer Zwischenraum von Mensch und Natur.\n\nEin Abend für alle Sinne – mit Tanz und Hafereis für Herz und Seele.\n\nPreis: 10/15/20"
   },
   {
     "id": 0,
-    "event": "MÜDE / ÉTINCELLES SOUS LA BRUME/ PEACE OF MIND",
+    "event": "FINTA* JAM BY RESONANCE",
     "date": "2025-06-26T22:00:00.000Z",
     "venue": "ZWZ",
-    "img_src": "https://zw-img.imgix.net/uploads/IMG_4078_e3a26f5131.JPG?fm=pjpg&fit=max&w=600",
-    "eventlink": "https://zentralwaescherei.space/event/y03uel12anpd721kr67j7dro",
-    "description": "In einer Welt, die uns ständig nach außen zieht, lädt dieser Abend dazu ein, nach innen zu hören. Den Körper sprechen lassen. Roh, ehrlich, verletzlich.\n\nAm 26. und 27. Juni 2025 präsentieren wir in der Zentralwäscherei Zürich einen Tanzabend, der sich mit viel Sensibilität dem Thema mentale Gesundheit widmet. Drei Stücke – müde, étincelles sous la brume und peace of mind – beleuchten unterschiedliche Facetten psychischer Zustände und schaffen Räume für Achtsamkeit, Mitgefühl und Reflexion.\n\nmüde von Vanessa Morandell vermittelt durch Klang, Bewegung und Text das Erleben von Depression – als eine Suche nach Halt im Strudel der inneren Leere.\n\nétincelles sous la brume von Chloé Wanner und Lea Korner thematisiert das Gefühl von Dissoziation. Tanz, Live-Sound und Szenografie erschaffen eine fragile Atmosphäre zwischen Nebel und Aufbruch.\n\npeace of mind von Ladina Whitehead erforscht Vertrauen und innere Ruhe. Improvisation und persönliche Reflexion werden hier zu einem poetischen Werkzeug der Selbstbegegnung.\n\nWas alle drei Stücke verbindet, ist der Wunsch, neue Ausdrucksformen zu erkunden. Zeitgenössischer Tanz verschmilzt mit Elementen aus Streetstyles wie Hip-Hop und Krump und trifft auf experimentelle Klanglandschaften und starke visuelle Ästhetik. Der Abend lebt von der interdisziplinären Zusammenarbeit mit Musiker:innen, Sounddesigner:innen und Fotograf:innen – ein Zusammenspiel, das Emotionen in Bewegung übersetzt.\n\nIm Zentrum steht der Drang, das Innere sichtbar zu machen – dort, wo Worte fehlen. Der Abend lädt das Publikum ein, sich auf ein ganzheitliches, sinnliches Erlebnis einzulassen, in dem Tanz nicht nur bewegt, sondern berühr\n\nPreis: 10/15/20"
+    "img_src": "https://zw-img.imgix.net/uploads/Capture_d_ecran_2025_06_19_a_17_34_28_2f5e93fee9.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/gurcrffsbesj8yvb3ehdhj0u",
+    "description": "🎶✨ FINTA* Jam Session at Zentralwäscherei! ✨🎶\n\nCalling all FINTA* musicians, noise-makers, and music lovers! Whether you’re a long time player, a beginner, or just curious to jam in a safer and welcoming space–this stage is for you!\n\n📍 Zentralwäscherei\n📅 June 27th, 19:00-23:00\n\nWe have electric guitars, an electric bass, a drum set and a drum machine, a keyboard as well as mics for singing and more...\n\nEveryone in the FINTA* community is welcome! Come by and make some noise! 🔥"
+  },
+  {
+    "id": 0,
+    "event": "MENTAL HEALTH AND ICE CREAM",
+    "date": "2025-06-26T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/image0ccc_98ace98306.jpeg?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://eventfrog.ch/de/p/theater-buehne/tanz/tanz-trifft-psyche-und-eine-kugel-glace-dazu-7333424858791947931.html",
+    "description": "Tanz trifft Psyche – und eine Kugel Glace dazu.\n\nIn einer Welt, die uns ständig nach außen zieht, lädt dieser Abend dazu ein, nach innen zu lauschen. Den Körper sprechen zu lassen – roh, ehrlich, verletzlich.\n\nEin Tanzabend über das Innenleben. Drei Kurzstücke öffnen Räume für Gespräche über mentale Gesundheit. Zeitgenössischer Tanz trifft auf Streetstyles und Physical Theater – eine Begegnung, die neue ästhetische Perspektiven schafft.\n\nDavor, mittendrin und danach: Glace von Gelavena – weil sich das Innenleben mit ein paar Glückshormonen leichter anfühlt und sich besser darüber reden lässt.\n\nmüde – Vanessa Morandell\n\nDepression in Klang, Bewegung und Text. Eine Annäherung an das Innenleben eines Menschen, der nicht mehr aufstehen kann.\n\nétincelles sous la brume – cienuime – Chloé Wanner, Lea Korner & Claudius Leopold\n\nDissoziation, zwei tanzende Körper, die im Nebel versinken. Tanz, Live-Sound und Szenografie schaffen eine dichte, emotionale Atmosphäre zwischen Fragmentierung und Sehnsucht.\n\npeace of mind – Ladina Whitehead\n\nImprovisation, Vertrauen und innerer Frieden. Zwei Tänzer*innen begegnen sich – persönlich, nahbar, mit der leisen Hoffnung auf ein Aufatmen.\n\nDon’t Panic – Kurzfilm-Installation\n\nEin filmischer Zwischenraum von Mensch und Natur.\n\nEin Abend für alle Sinne – mit Tanz und Hafereis für Herz und Seele.\n\nPreis: 10/15/20"
   },
   {
     "id": 0,
@@ -904,6 +868,33 @@
   },
   {
     "id": 0,
+    "event": "EM PUBLIC VIEWING MATCHDAY 1",
+    "date": "2025-07-01T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing2_8664142c77.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/rdm8hopsb8uno6xorz3up6ee",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING MATCHDAY 1",
+    "date": "2025-07-02T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing3_e4d07a063f.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/wbqfdbio79f8wgdu80om1d9e",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING MATCHDAY 1",
+    "date": "2025-07-03T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing4_94b6040a2f.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/s6osbcj4kogmt19hsh3ky3ll",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
     "event": "WOSCH JAM",
     "date": "2025-07-04T22:00:00.000Z",
     "venue": "ZWZ",
@@ -913,12 +904,183 @@
   },
   {
     "id": 0,
+    "event": "EM PUBLIC VIEWING MATCHDAY 1",
+    "date": "2025-07-04T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing5_01b36ce812.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/phh37ti8gi5w6r7ifmltx6fv",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "DIMANCHE FLOHMI - JULI",
+    "date": "2025-07-05T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/flohmi_juillet_736e85b5c2.jpg?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://docs.google.com/document/d/14cFvsl4LVpA5Hh-Fnw52FRTr9xw4-qg-Vk1HYvQMfwc/edit?tab=t.0",
+    "description": "ZW-KW - 14-18\n\n✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿\n\nMelde dich über den Link für einen Tisch an. Du kannst um 13h kommen, um deinen Stand vorzubereiten.\n\n✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿\n\nWir haben Kleiderständer und Kleiderbügel für dich. Aber nicht unendlich viel, bringt etwas mit, wenn ihr könnt.\n\nEs werden keine Plätze im Voraus vorbereitet, wir lassen euch wählen, wo / wie ihr euch in unserem Raum aufhalten wollt, einzige Bedingung unsererseits ist, dass ihr alles, was ihr von unserem Raum benutzt, wieder zurückstellt. Danke, wir freuen uns auf dich.\n\nIhr könnt eure Kleidung, Pflanzen, Drucke, Lampen, Vinyls, Kreationen, Bücher, Schmuck verkaufen und tauschen, fühlt euch frei."
+  },
+  {
+    "id": 0,
     "event": "ARABIC CHOIR MEET UP",
     "date": "2025-07-05T22:00:00.000Z",
     "venue": "ZWZ",
     "img_src": "https://zw-img.imgix.net/uploads/Whats_App_Image_2025_04_15_at_12_07_30_0f6a4057cf.jpeg?fm=pjpg&fit=max&w=600",
     "eventlink": "https://zentralwaescherei.space/event/pya20ss7r5760yw7hocf55p8",
     "description": "إذا اشتقتِ لصوت الطرب وضحكة الجَمعة ولمّة الأغاني… هذه الجوقة لكِ.\nجوقة نسائية عربية نغني فيها معاً، من القلب، ونسترجع فيها دفء الوطن.\nما تحتاجي تكوني محترفة – بس حبك للموسيقى بيكفي.\n\n10 / 15 chf"
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING MATCHDAY 2",
+    "date": "2025-07-05T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing6_c5a10c563f.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/twotr66s7f0w1jplt7wxitm0",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-06T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing6_1_84dc85f472.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/ejdupm2gqhopk23j3ibiwkjc",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-07T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing2_1_2f0a844b3d.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/yoqplvkg4mlp31id0mvf69n1",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-08T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing3_1_c089c9a747.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/masct4toa7cig38wpjez5nur",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-09T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing4_1_1bb475163e.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/d7867p9dd8dur77s4vz1ls14",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte.\n\nWir zeigen beide Spiele!"
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-10T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing5_1_7a59afcebc.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/lfktkl9daaifzt4x326qra9x",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte.\n\nWir zeigen beide Spiele!"
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-11T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing6_1_84dc85f472.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/uouzjq06ahl771buff6x6a14",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte.\n\nWir zeigen beide Spiele!"
+  },
+  {
+    "id": 0,
+    "event": "EUROTRANCE VOL. III",
+    "date": "2025-07-11T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/image_4_d6f31cfa35.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://www.petzi.ch/de/events/60049-kulturraum-zentralwascherei-eurotrance-vol-iii/tickets/",
+    "description": "Eurotrance in der Halle ist back! Und dieses Mal tanzen wir bis 7i🥵!\n\nKommt vorbei und Taucht ein in eine Nacht voller :✨Y2k Charme ✨ und 💎🧚‍♀️LAZER Glitzer 🧚‍💎, wie immer in der ZW 💖💫\n\n23:00 - 01:00 Zor-lit\n01:00 - 03:00 161bpm\n03:00 - 05:00 DJ Yolo\n05:00-07:00 DJ Equipment\n\nDJ YOLO\nIrgendwo zwischen schnellen Rhythmen, verträumten Melodien, harten Kicks und meist herzzerreißenden Vocals hat dj yolo ihr Herz verloren. Ihr Ziel ist es, eine tief nostalgische, aber gleichzeitig energievolle Atmosphäre zu schaffen, indem sie diese Schlüsselelemente miteinander verbindet. Inspiriert von (Hard) Trance und\nverschiedenen Richtungen des UK Hardcore erzählt die Berliner Künstlerin mit jedem ihrer Sets eine emotionale musikalische Geschichte. So erschafft sie Momente, in denen Musik nicht nur gehört, sondern gefühlt wird und die Welt abseits der Tanzfläche für eine kurze Zeit in Vergessenheit gerät.\n\nDJ EQUIPMENT\nIrgendwo zwischen schnellen Rhythmen, verträumten Melodien, harten Kicks und meist herzzerreißenden Vocals hat dj yolo ihr Herz verloren. Ihr Ziel ist es, eine tief nostalgische, aber gleichzeitig energievolle Atmosphäre zu schaffen, indem sie diese Schlüsselelemente miteinander verbindet. Inspiriert von (Hard) Trance und\nverschiedenen Richtungen des UK Hardcore erzählt die Berliner Künstlerin mit jedem ihrer Sets eine emotionale musikalische Geschichte. So erschafft sie Momente, in denen Musik nicht nur gehört, sondern gefühlt wird und die Welt abseits der Tanzfläche für eine kurze Zeit in Vergessenheit gerät.\n\nZOR LIT\nDas DJ Duo Zor-Lit will vor allem eines: Den Laden mit euch gemeinsam abreissen. In ihren Sets nehmen sie dich mit in eine Mischung aus Bailefunk, 00er Edits und wilden Beats. Das Ziel: mitelschnell starten und in der völligen Extase enden. Du und deine Friends können sich nicht auf eine Musikrichtung einigen, dann sind die Sets von Zor Lit das richtige für euch. Also komm vorbei und tauche ein in den wilden Zor Lit Rit"
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING WEEK 2",
+    "date": "2025-07-12T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing7_dc411eca35.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/p8kpiru2s7xsrrhejg5by5uj",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte.\n\nWir zeigen beide Spiele!"
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING -KNOCKOUT PHASE",
+    "date": "2025-07-15T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/knbv6xf83fp4ivo1xgkjrnk1",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING -KNOCKOUT PHASE",
+    "date": "2025-07-16T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/f9t5l9pdsnxkdqn3j92tmutj",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING - KNOCKOUT PHASE",
+    "date": "2025-07-17T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/r82ky0b0qnbxgov0q7mmtil6",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING - KNOCKOUT PHASE",
+    "date": "2025-07-18T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/h3kg9o36z1iy7ezo2fx9egp2",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING - SEMI FINALS",
+    "date": "2025-07-21T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/rllntle9xf50qf82pk33at48",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING - SEMI FINALS",
+    "date": "2025-07-22T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/ltxkti9swib4hmtlcty11s5l",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "EM PUBLIC VIEWING - FINALE!!!!",
+    "date": "2025-07-26T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Public_Viewing_1_2efb08e109.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://zentralwaescherei.space/event/by2gdtb1yqy98fqa1bsiosz3",
+    "description": "Anlässlich der UEFA-Frauen-Europameisterschaft, die im Juli in der Schweiz stattfinden wird, arbeitet ZW mit einer neuen Initiative, Frau Müller x F96, zusammen, um Public Viewings und spezielle Veranstaltungen während des Turniers zu organisieren. Frau Müller ist das Magazin über den Schweizer Frauenfussball, gegründet von Laura Rivas Kaufmann, Andrea Müller, Andrea Bleicher, Sabina Sturzenegger und Anina Weidmann. Der Schweizer Frauenfussball soll endlich die Aufmerksamkeit erhalten, die er verdient. F96 ist ein feministisches Kollektiv, das ZW bereits für verschiedene Veranstaltungen empfangen durfte."
+  },
+  {
+    "id": 0,
+    "event": "TILT - STREET PARADE AFTERPARTY",
+    "date": "2025-08-08T22:00:00.000Z",
+    "venue": "ZWZ",
+    "img_src": "https://zw-img.imgix.net/uploads/Streetparade_f59e5b6e5b.png?fm=pjpg&fit=max&w=600",
+    "eventlink": "https://www.petzi.ch/de/events/60081-kulturraum-zentralwascherei-tilt-street-parade-afterparty/",
+    "description": "Street parade. earth is back from her yearly trip, and we gather again.\ndoors open. eyes tilt. everything leans slightly left. the parade returns but the map is different this time. sweat and smoke and organs humming softly under the halle roof.\n\nIn BR, true school house, hybrid technics.\nA Guy Called Gerald whispers to the cables,\nFabulus plays the set that melts mirrors.\nthe walls remember your heart beat.\n\nIn KW genres slip between fingers\nNive leads the way\nmolekühl (de)constructs the floor,\nS.O.N.S spins you until the last trance,\nsound gets sliced, looped, reborn as something tender.\n\nIn Halle, the church is open.\nXTC sermons with no words, just feeling.\n\nfrom 23:00 till time forgets itself,\nall rooms breathing,\nall bars dripping,\nsmoking in halle,\nkissing in BR,\nlevitating in KW.\n\nEntry 15 (17 incl. fee online)/ 20 / 25\nFree entry PERSONEN MIT STATUS S/N/F, SANS-PAPIER\n18 yo +"
   },
   {
     "id": 0,
@@ -1003,11 +1165,29 @@
   },
   {
     "id": 0,
+    "event": "PlattentaufeL'Éclair CH",
+    "date": "2025-09-10T22:00:00.000Z",
+    "venue": "Bogen F",
+    "img_src": "https://www.bogenf.ch/fileadmin/_processed_/9/3/csm_250616_LEclair_BF_Promobild_www_Vorverkauf_UNTER_1MB_8b4efac207.jpg",
+    "eventlink": "https://www.bogenf.ch/konzerte/leclair",
+    "description": ""
+  },
+  {
+    "id": 0,
     "event": "The Lemonheads US",
     "date": "2025-09-14T22:00:00.000Z",
     "venue": "Bogen F",
     "img_src": "https://www.bogenf.ch/fileadmin/_processed_/f/4/csm_250519_The_Lemonheads_BF_Promobild_www_Vorverkauf_UNTER_1MB_cbbf514800.jpg",
     "eventlink": "https://www.bogenf.ch/konzerte/the-lemonheads",
+    "description": ""
+  },
+  {
+    "id": 0,
+    "event": "Coilguns CHCamilla Sparksss CH",
+    "date": "2025-09-17T22:00:00.000Z",
+    "venue": "Bogen F",
+    "img_src": "https://www.bogenf.ch/fileadmin/_processed_/f/e/csm_csm_250616_Coilguns_-_Sparksss_BF_Promobild_www_Vorverkauf_UNTER_1MB_53a8417b47_5d9f58ce72.jpg",
+    "eventlink": "https://www.bogenf.ch/konzerte/camilla-sparkss-coilguns",
     "description": ""
   },
   {
@@ -1143,6 +1323,15 @@
     "venue": "Bogen F",
     "img_src": "https://www.bogenf.ch/fileadmin/_processed_/b/5/csm_250602_The_Weather_Station_BF_Promobild_www_Vorverkauf_UNTER_1MB_5fc3e2dd80.jpg",
     "eventlink": "https://www.bogenf.ch/konzerte/the-weather-station-1",
+    "description": ""
+  },
+  {
+    "id": 0,
+    "event": "Winter USMamalarky US",
+    "date": "2025-11-14T23:00:00.000Z",
+    "venue": "Bogen F",
+    "img_src": "https://www.bogenf.ch/fileadmin/_processed_/6/a/csm_csm_250616_Winter_Mamalarky_Homepage_UNTER_1MB_53a8417b47_bc55a73830.jpg",
+    "eventlink": "https://www.bogenf.ch/konzerte/mamalarky-winter",
     "description": ""
   },
   {
@@ -1372,12 +1561,30 @@
   },
   {
     "id": 0,
+    "event": "Damily",
+    "date": "2025-10-09T22:00:00.000Z",
+    "venue": "Moods",
+    "img_src": "",
+    "eventlink": "https://moods.ch/en/damily-2025-10-11",
+    "description": "TsapikyMalagasy Roots, Tsapiky, Malagasy Roots\nOct"
+  },
+  {
+    "id": 0,
     "event": "Afrobeats Explosion",
     "date": "2025-10-09T22:00:00.000Z",
     "venue": "Moods",
     "img_src": "",
     "eventlink": "https://moods.ch/en/afrobeats-explosion-2025-10-11",
     "description": "Afrobeats: The Sounds of Today, Afrobeats: The Sounds of Today\nOct"
+  },
+  {
+    "id": 0,
+    "event": "Annie & The Caldwells",
+    "date": "2025-10-12T22:00:00.000Z",
+    "venue": "Moods",
+    "img_src": "",
+    "eventlink": "https://moods.ch/en/annie-the-caldwells-2025-10-14",
+    "description": "GospelSoulBlues, Gospel, Soul, Blues\nOct"
   },
   {
     "id": 0,
