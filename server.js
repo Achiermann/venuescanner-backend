@@ -17,7 +17,11 @@ const __dirname = dirname(__filename);
 const app = express();
 const PORT = 3001;
 
-app.use(cors());
+app.use(cors(
+  {origin: 'https://venuescanner.achiapp.ch',
+    credentials: true
+  }
+));
 app.use(express.json());
 
 app.get('/api/run-backend', async (req, res) => {
