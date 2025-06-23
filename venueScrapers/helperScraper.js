@@ -4,4 +4,4 @@ class HerlperScraper extends Scraper {
 
 }
 
-export default new HerlperScraper();
+export default new HelperScraper();
