@@ -1,6 +1,6 @@
 import Scraper from './scraper.js';
 
-class HerlperScraper extends Scraper {
+class HelperScraper extends Scraper {
 
 }
 
