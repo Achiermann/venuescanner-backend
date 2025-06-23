@@ -21,6 +21,9 @@ async _clearTable() {
       await new Promise((resolve, reject) => {
         db.query(clearTableQuery, (err, result) => {
           if (err) reject('Error clearing the table:', err);
+          if (err) {
+            return reject(err);
+          }
           resolve(result);
         });
       });
